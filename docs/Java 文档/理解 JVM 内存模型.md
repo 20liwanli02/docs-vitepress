@@ -2,7 +2,7 @@
 
 ## 一、JVM 基础概念
 
-![](https://cdn.nlark.com/yuque/0/2026/png/45503748/1774946667116-5eed77c0-b31a-4d4b-bcf4-c36139ee1493.png)
+![JVM内存模型图.png](/images/java/jvm-memory-model/01.png)
 
 ### 虚拟机各个部件简单介绍
 1. **堆**：存放对象
@@ -30,7 +30,7 @@ public class Math {
 }
 ```
 
-![](https://cdn.nlark.com/yuque/0/2026/png/45503748/1774948118463-16173b07-184b-4ba0-a8c9-b016f175a860.png)
+![](/images/java/jvm-memory-model/02.png)
 
 **详解 compute 方法**
 
