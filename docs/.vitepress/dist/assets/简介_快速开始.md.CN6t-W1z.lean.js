@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r,ak as _}from"./chunks/framework.DDI1FNOs.js";const m=JSON.parse('{"title":"归档","description":"","frontmatter":{},"headers":[],"relativePath":"简介/快速开始.md","filePath":"简介/快速开始.md"}'),l={name:"简介/快速开始.md"};function n(o,a,i,s,c,d){return t(),r("div",null,[...a[0]||(a[0]=[_("",3)])])}const f=e(l,[["render",n]]);export{m as __pageData,f as default};

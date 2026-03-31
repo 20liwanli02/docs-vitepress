@@ -6,6 +6,13 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     logo: '/logo.png',
+    outline: {
+      label: '本页目录'  // 自定义中文标题
+    },
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
@@ -32,13 +39,6 @@ export default defineConfig({
       }
     },
     sidebar: [
-      // {
-      //   text: 'Examples',
-      //   items: [
-      //     { text: 'Markdown Examples', link: '/markdown-examples' },
-      //     { text: 'Runtime API Examples', link: '/api-examples' }
-      //   ]
-      // },
       {
         text: '简介',
         collapsed: false,
@@ -50,13 +50,15 @@ export default defineConfig({
         text: 'Java 文档',
         collapsed: false,
         items: [
-          { text: 'Java 公共代码抽象', link: '/Java 文档/Java 公共代码抽象' }
+          { text: 'Java 公共代码抽象', link: '/Java 文档/Java 公共代码抽象' },
+          { text: '理解 JVM 内存模型', link: '/Java 文档/理解 JVM 内存模型' },
         ]
       },{
         text: '扩展',
         collapsed: false,
         items: [
-          { text: '扩展文档', link: '/扩展/扩展文档' }
+          { text: '扩展文档', link: '/扩展/扩展文档' },
+          { text: 'Cloudflare 使用文档', link: '/扩展/Cloudflare 使用文档' },
         ]
       },
     ],
