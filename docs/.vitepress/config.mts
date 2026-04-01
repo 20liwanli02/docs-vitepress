@@ -31,7 +31,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
     footer: {
-      copyright: 'Copyright © 2026 YeYuan'
+      copyright: 'Copyright © 2026 YuHan'
     },
   }
 })
