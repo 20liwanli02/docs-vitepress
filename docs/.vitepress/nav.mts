@@ -16,4 +16,19 @@ export default [
             {text: 'Cloudflare 文档', link: '/Java 文档/Java学习计划'},
         ]
     },
+    {
+        text: 'AI 大模型', items: [
+            {text: 'Agent', link: '/Java 文档/Java学习计划'},
+        ]
+    },
+    {
+        text: '项目实战', items: [
+            {text: 'Agent', link: '/Java 文档/Java学习计划'},
+        ]
+    },
+    {
+        text: '扩展', items: [
+            {text: 'Agent', link: '/Java 文档/Java学习计划'},
+        ]
+    },
 ]
