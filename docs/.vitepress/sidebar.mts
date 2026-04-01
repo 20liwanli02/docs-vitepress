@@ -47,6 +47,7 @@ export default {
                 { text: 'Java学习计划', link: '/Java 文档/Java学习计划' },
                 { text: 'Java 公共代码抽象', link: '/Java 文档/Java 公共代码抽象' },
                 { text: '理解 JVM 内存模型', link: '/Java 文档/理解 JVM 内存模型' },
+                { text: 'Minio 中 Key 的缓存问题', link: '/Java 文档/Minio 中 Key 的缓存问题' },
             ]
         },
     ],
