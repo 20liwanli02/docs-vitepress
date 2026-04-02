@@ -32,6 +32,9 @@ export default {
                     text: '物理层和数据链路层',
                     collapsed: false,
                     items: [
+                        { text: '物理层', link: '/计算机网络/物理层和数据链路层/物理层' },
+                        { text: 'MAC 地址', link: '/计算机网络/物理层和数据链路层/MAC 地址' },
+                        { text: '什么是链路', link: '/计算机网络/物理层和数据链路层/什么是链路' },
                     ]
                 }
             ]
