@@ -1,6 +1,6 @@
 export default [
     {text: '首页', link: '/'},
-    {text: '文章', link: '/markdown-examples'},
+    {text: '归档', link: '/markdown-examples'},
     {
         text: '计算机基础', items: [
             {text: '计算机网络', link: '/计算机网络/初识计算机网络/协议的本质'},
@@ -12,12 +12,10 @@ export default [
             {text: 'Java 文档', link: '/Java 文档/Java学习计划'},
         ]
     },{
-        text: '云服务', items: [
-            {text: 'Cloudflare 文档', link: '/Java 文档/Java学习计划'},
-        ]
+        text: '云服务', link: '/云服务/说明',
     },
     {
-        text: 'AI 大模型', items: [
+        text: 'AI', items: [
             {text: 'Agent', link: '/Java 文档/Java学习计划'},
         ]
     },
@@ -27,7 +25,7 @@ export default [
         ]
     },
     {
-        text: '扩展', items: [
+        text: '技能扩展', items: [
             {text: 'Agent', link: '/Java 文档/Java学习计划'},
         ]
     },

@@ -61,5 +61,18 @@ export default {
                 { text: '算法入门', link: '/algorithm/' }
             ]
         }
-    ]
+    ],
+
+    // 计算机网络专用侧边栏
+    ["/云服务/"]: [
+        {
+            text: '云服务',
+            collapsed: false,
+            items: [
+                { text: 'Cloudflare 文档', link: '/云服务/Cloudflare 文档' },
+                { text: 'Git 常用命令', link: '/云服务/Git 常用命令' },
+                { text: 'Github 推送失败问题', link: '/云服务/Github 推送失败问题' },
+            ]
+        },
+    ],
 }
