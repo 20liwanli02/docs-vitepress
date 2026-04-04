@@ -67,6 +67,11 @@ export default {
                         { text: 'IP 地址总结', link: '/计算机网络/网络层/IP 地址总结' },
                         { text: '认识网络层', link: '/计算机网络/网络层/认识网络层' },
                         { text: '深入理解 IP 协议', link: '/计算机网络/网络层/深入理解 IP 协议' },
+                        { text: '抓包加深对 IP 协议理解', link: '/计算机网络/网络层/抓包加深对 IP 协议的理解' },
+                        { text: 'ARP 协议', link: '/计算机网络/网络层/ARP 协议' },
+                        { text: 'ICMP 协议', link: '/计算机网络/网络层/ICMP 协议' },
+                        { text: '路由器连接多个网络', link: '/计算机网络/网络层/路由器连接多个网络' },
+                        { text: '仿真演示路由器的工作原理', link: '/计算机网络/网络层/仿真演示路由器的工作原理' },
                     ]
                 },
             ]
@@ -83,6 +88,7 @@ export default {
                 { text: 'Java 公共代码抽象', link: '/Java 文档/Java 公共代码抽象' },
                 { text: '理解 JVM 内存模型', link: '/Java 文档/理解 JVM 内存模型' },
                 { text: 'Minio 中 Key 的缓存问题', link: '/Java 文档/Minio 中 Key 的缓存问题' },
+                { text: '脚手架是什么', link: '/Java 文档/脚手架是什么' },
             ]
         },
     ],
