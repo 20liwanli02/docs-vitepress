@@ -1,6 +1,8 @@
 export default [
     {text: '首页', link: '/'},
-    {text: '归档', link: '/markdown-examples'},
+    {
+        text: '指南', link: '/指南/简介'
+    },
     {
         text: '计算机基础', items: [
             {text: '计算机网络', link: '/计算机网络/初识计算机网络/协议的本质'},
@@ -11,7 +13,7 @@ export default [
         text: '编程语言', items: [
             {text: 'Java 文档', link: '/Java 文档/Java学习计划'},
         ]
-    },{
+    }, {
         text: '云服务', link: '/云服务/说明',
     },
     {

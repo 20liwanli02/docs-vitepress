@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 阅读文档
-      link: /简介/快速开始
+      link: /指南/快速开始
     - theme: alt
       text: 关于
       link: /api-examples
