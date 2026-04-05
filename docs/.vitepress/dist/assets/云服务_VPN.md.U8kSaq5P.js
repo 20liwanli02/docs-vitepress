@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.24mNDJkT.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"云服务/VPN.md","filePath":"云服务/VPN.md","lastUpdated":1775305895000}'),r={name:"云服务/VPN.md"};function o(s,c,n,d,p,_){return t(),a("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

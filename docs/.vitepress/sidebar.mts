@@ -93,6 +93,21 @@ export default {
         },
     ],
 
+    // 计算机网络专用侧边栏
+    ["/AI/OpenClaw/"]: [
+        {
+            text: 'OpenClaw',
+            collapsed: false,
+            items: [
+                { text: 'OpenClaw 是什么', link: '/AI/OpenClaw/OpenClaw 是什么' },
+                { text: 'OpenClaw 部署', link: '/AI/OpenClaw/OpenClaw 部署' },
+                { text: 'OpenClaw 快速上手', link: '/AI/OpenClaw/OpenClaw 快速上手' },
+                { text: 'OpenClaw 本地文件管理', link: '/AI/OpenClaw/OpenClaw 本地文件管理' },
+                { text: 'OpenClaw 知识库管理', link: '/AI/OpenClaw/OpenClaw 知识库管理' },
+            ]
+        },
+    ],
+
     // 算法专用侧边栏
     '/algorithm/': [
         {

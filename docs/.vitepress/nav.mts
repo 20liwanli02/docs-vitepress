@@ -18,7 +18,7 @@ export default [
     },
     {
         text: 'AI', items: [
-            {text: 'Agent', link: '/Java 文档/Java学习计划'},
+            {text: 'OpenClaw', link: '/AI/OpenClaw/OpenClaw 是什么'},
         ]
     },
     {
