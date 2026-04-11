@@ -9,6 +9,7 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     logo: '/logo.png',
+    aside: false,
     outline: {
       label: '本页目录'  // 自定义中文标题
     },
@@ -33,5 +34,8 @@ export default defineConfig({
     footer: {
       copyright: 'Copyright © 2026 YuHan'
     },
+  },
+  markdown: {
+    lineNumbers: true
   }
 })

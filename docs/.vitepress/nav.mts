@@ -23,12 +23,22 @@ export default [
     },
     {
         text: '项目实战', items: [
-            {text: 'Agent', link: '/Java 文档/Java学习计划'},
+            {
+                text: '入门', items: [
+                    {text: 'Electron 扫雷大战', link: '/项目实战/入门/Electron 扫雷大战/01.开始'},
+                ]
+            },{
+                text: '进阶', items: [
+                    {text: 'Spring AI Alibaba 多智能体文章生成器', link: '/项目实战/进阶/Spring AI Alibaba 多智能体文章生成器/01.文章创作流程分析'},
+                ]
+            },
         ]
     },
     {
-        text: '技能扩展', items: [
-            {text: 'Agent', link: '/Java 文档/Java学习计划'},
-        ]
-    },
+        text: '技能扩展', items:
+            [
+                {text: 'Agent', link: '/Java 文档/Java学习计划'},
+            ]
+    }
+    ,
 ]

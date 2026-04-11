@@ -107,6 +107,18 @@ export default {
             ]
         },
     ],
+    // 计算机网络专用侧边栏
+    ["/项目实战/进阶/"]: [
+        {
+            text: 'Spring AI Alibaba 多智能体文章生成器',
+            collapsed: false,
+            items: [
+                { text: '文章创作流程分析', link: '/项目实战/进阶/Spring AI Alibaba 多智能体文章生成器/01.文章创作流程分析' },
+                { text: '文章创作流程 FAQ', link: '/项目实战/进阶/Spring AI Alibaba 多智能体文章生成器/02.文章创作流程 FAQ' },
+                { text: 'Stripe 支付流程分析', link: '/项目实战/进阶/Spring AI Alibaba 多智能体文章生成器/03.Stripe 支付流程分析' },
+            ]
+        },
+    ],
 
     // 算法专用侧边栏
     '/algorithm/': [
