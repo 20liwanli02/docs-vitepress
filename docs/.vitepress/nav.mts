@@ -19,6 +19,7 @@ export default [
     {
         text: 'AI', items: [
             {text: 'OpenClaw', link: '/AI/OpenClaw/OpenClaw 是什么'},
+            {text: 'Vibe Coding', link: '/AI/Vibe Coding/01.Vibe Coding 是什么'},
         ]
     },
     {

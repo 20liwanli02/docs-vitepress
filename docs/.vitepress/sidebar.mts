@@ -106,6 +106,20 @@ export default {
                 { text: 'OpenClaw 知识库管理', link: '/AI/OpenClaw/OpenClaw 知识库管理' },
             ]
         },
+    ],// 计算机网络专用侧边栏
+    ["/AI/Vibe Coding/"]: [
+        {
+            text: 'Vibe Coding',
+            collapsed: false,
+            items: [
+                { text: 'Vibe Coding 是什么', link: '/AI/Vibe Coding/01.Vibe Coding 是什么' },
+                { text: '快速开始', link: '/AI/Vibe Coding/02.快速开始' },
+                { text: 'AI 编程工具指南', link: '/AI/Vibe Coding/03.AI 编程工具指南' },
+                { text: 'AI 模型选择', link: '/AI/Vibe Coding/04.AI 模型选择' },
+                { text: 'AI 零代码平台', link: '/AI/Vibe Coding/05.AI 零代码平台' },
+                { text: 'AI 智能体平台', link: '/AI/Vibe Coding/06.AI 智能体平台' },
+            ]
+        },
     ],
     // 计算机网络专用侧边栏
     ["/项目实战/进阶/"]: [

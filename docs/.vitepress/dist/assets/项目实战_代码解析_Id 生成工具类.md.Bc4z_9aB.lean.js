@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.24mNDJkT.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"项目实战/代码解析/Id 生成工具类.md","filePath":"项目实战/代码解析/Id 生成工具类.md","lastUpdated":0}'),r={name:"项目实战/代码解析/Id 生成工具类.md"};function o(s,_,d,c,n,p){return t(),a("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
