@@ -79,16 +79,13 @@ export default {
     ],
 
     // 计算机网络专用侧边栏
-    ["/Java 文档/"]: [
+    ["/编程/Java/"]: [
         {
-            text: 'Java 文档',
+            text: 'Java',
             collapsed: false,
             items: [
-                { text: 'Java学习计划', link: '/Java 文档/Java学习计划' },
-                { text: 'Java 公共代码抽象', link: '/Java 文档/Java 公共代码抽象' },
-                { text: '理解 JVM 内存模型', link: '/Java 文档/理解 JVM 内存模型' },
-                { text: 'Minio 中 Key 的缓存问题', link: '/Java 文档/Minio 中 Key 的缓存问题' },
-                { text: '脚手架是什么', link: '/Java 文档/脚手架是什么' },
+                { text: 'Java 代码抽象', link: '/编程/Java/Java/01.Java 代码抽象' },
+                { text: '理解 JVM 内存模型', link: '/编程/Java/Java/02.理解 JVM 内存模型' },
             ]
         },
     ],
@@ -118,6 +115,17 @@ export default {
                 { text: 'AI 模型选择', link: '/AI/Vibe Coding/04.AI 模型选择' },
                 { text: 'AI 零代码平台', link: '/AI/Vibe Coding/05.AI 零代码平台' },
                 { text: 'AI 智能体平台', link: '/AI/Vibe Coding/06.AI 智能体平台' },
+            ]
+        },
+    ],
+    ["/基础/学力/"]: [
+        {
+            text: 'English',
+            collapsed: false,
+            items: [
+                { text: '简介', link: '/基础/学力/英文/01.简介' },
+                { text: '单词', link: '/基础/学力/英文/02.单词' },
+                { text: '优秀的人如何训练大脑', link: '/基础/学力/英文/03.优秀的人如何训练大脑' },
             ]
         },
     ],
